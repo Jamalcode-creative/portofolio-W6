@@ -1,0 +1,18 @@
+# Portofolio v1 - [Wisnu Bimantoro]
+
+Website portofolio pribadi yang responsif untuk perangkat ponsel, tablet, dan laptop. Proyek ini dibuat sebagai bagian dari tugas **Kelas Industri PT Universal Big Data (UBIG)** Paket 1 Full Stack Basic.
+
+## Halaman Website
+- **Beranda (`index.html`):** Profil singkat, foto, dan daftar keahlian.
+- **Proyek (`proyek.html`):** Kumpulan karya yang pernah dibuat.
+- **Kontak (`kontak.html`):** Formulir dan informasi untuk terhubung.
+
+## Teknologi yang Digunakan
+- HTML5
+- CSS3 (Responsive Design)
+- Git & GitHub
+- Vercel (Hosting)
+
+## Tautan Live Website
+Website ini dapat diakses secara online melalui alamat:
+[Buka Portofolio Live](https://vercel.app)
