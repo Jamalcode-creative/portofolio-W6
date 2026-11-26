@@ -1,6 +1,7 @@
 //Latihan Java script
  //Kalkulator Nilai
-
+console.log ("Halo Nama saya bima")
+console.log ("Latihan JavaScript saya di mulai di sini")
 
 const nama = "Bima";
 const kkm = 75;
